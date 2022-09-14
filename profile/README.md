@@ -4,7 +4,7 @@ Feel free to use this README as cheetsheet about out team
 ### 👨‍💻 Team members
 | Name | Position | Social Links |  
 | --- | --- | --- |
-| Oleksandr Klekha | Boss | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/klekhaav/) |
+| Oleksandr Klekha | Boss | [![LinkedIn](https://cdn.icon-icons.com/icons2/2108/PNG/512/upwork_icon_130799.png)](https://www.linkedin.com/in/klekhaav/) |
 | Oleksandr Shypulin | CFO / DevSecOps | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/oleksandr-shypulin/) |
 | Bohdan Yaroschuk | CTO / FullStack Developer | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/bohdan-yaroshchuk-4ab52a204/) |
 | Roman Boba | Team Lead / Backend Developer | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/roman-boba-255920187/) | 
