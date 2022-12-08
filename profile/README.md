@@ -14,4 +14,5 @@ Feel free to use this README as cheetsheet about out team
 | Dmytro Tsyben | Backend developer | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dima-tsyben-056855186/) |
 | Oleksandr Rozhko | Backend developer | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/oleksandr-rozhko-652093232/) |
 | Oleksandr Portianko | Frontend developer | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/oleksandr-portianko-740444232/) |
+| Ivan Kahan | Frontend developer | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ivan-kahan-bb9b14231/) |
 | Oleksandra Roiko | Designer / Artist | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/oleksandra-roiko-801799207/) |
