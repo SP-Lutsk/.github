@@ -4,7 +4,7 @@ Feel free to use this README as cheetsheet about out team
 ### 👨‍💻 Team members
 | Name | Position | Social Links |  
 | --- | --- | --- |
-| Oleksandr Klekha | Boss | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/klekhaav/) |
+| Oleksandr Klekha | CEO | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/klekhaav/) |
 | Oleksandr Shypulin | CFO / DevSecOps | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/oleksandr-shypulin/) |
 | Dmytro Palonka | Frontend Developer |  [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dmytro-palionka-158010209/) |
 | Vasyl Skrygunets | QA Engineer | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/vasyl-skryhunets-532a401b5/) |
